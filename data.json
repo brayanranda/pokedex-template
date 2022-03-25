@@ -1,0 +1,16 @@
+{
+    "data": [
+        {"url": "images/pokemon.png"},
+        {"url": "images/pokemon.png"},
+        {"url": "images/pokemon.png"},
+        {"url": "images/pokemon.png"}
+    ],
+    "info": [
+        {"title": "NO.", "description": "006"},
+        {"title": "LEVEL", "description": "100"},
+        {"title": "TYPE", "description": "FIRE"},
+        {"title": "HABILITY", "description": "FLAMES"},
+        {"title": "HEIGHT", "description": "1,7"},
+        {"title": "WEIGHT", "description": "90,5Kg"}
+    ]
+}
